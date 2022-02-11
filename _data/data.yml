@@ -118,31 +118,28 @@ experiences:
           - Product quality inspecting
 
 projects:
-    title: Experience with Ubisoft' Game
+    title: Game Experience
     intro: >
-      I mainly play FPS and RPG games but I am willing to try other genre. Right now I'm most interested in Just dance and Riders Republic.
+      I would say I am quite omnivorous in terms of game genre. I was a huge fan of Pokemon since I was a child, while I also played the Red Alert series and StarCraft at that time. Then, I underwent my teenage years mainly with the company of League of Legends and Overwatch.
+      I used to play Rainbow Six Seige; For Horner; The Division series; and most Ubisoft games. Now, Apex Legend is my staple. Of course, besides those long service-oriented games, I also had played GTA series, Red Dead Redemption, Sekiro: Shadows Die Twice, and basically most of the famous games every year. The games that moved me the most in recent years were NieR: Automata, The Witcher 3, Cyberpunk 2077 and Disco Elysium. Frankly, I prefer to pay attention to the story and narrative rather than the design of the game mechanism, though I fully understand how fatal the game mechanism design it is.
+      I wouldn't say I sink into social media platforms from day to night, but I do much care about the gamers community and know well about meme culture. Whenever there's a new launch or a hot event, I'm used to checking reviews from both the Chinese gaming community and the mainstream gaming circle in Europe and the US. I have accounts on Reddit and Discord, and also watch streaming on Twitch occasionally. I haven't played too many mobile games, so I am not really familiar with Taptap but I have a basic sense of it.
+      I am also big fan of anime and manga, but I'm not sure what the requirement referring to here is in the broad concept of a pan-entertaining 二次元 or so-called 老二次元 of a bygone era.
+      I haven't had an internship in the game industry so far, but the courses I've taken have included teaching game design, game audiences analysis, social media platforms analysis, social media campaign curating and other necessary skills for working in the industry.
+      The following are some cards and mobile games that I've played and watched closely
     assignments:
-      - title: Assassin's Creed series
+      - title: Gwent: The Witcher Card Game
         link: 
         tagline: 
         
-      - title: For Honour 
+      - title: Destiny Child
         link: 
         tagline: 
 
-      - title: Watch Dog 2
+      - title: Reverse:1999
         link: 
         tagline: 
 
-      - title: Rainbow Six® Siege
-        link: 
-        tagline: 
-
-      - title: The Division series
-        link:
-        tagline:
-        
-      - title: Hyper Scape
+      - title: Honkai Impact 3
         link: 
         tagline: 
         
@@ -157,9 +154,9 @@ skills:
         level: 80%
 
       - name: Social media account operation
-        level: 65%
+        level: 75%
 
-      - name: Scripting
+      - name: Game design (preliminary work)
         level: 75%
 
       - name: Adobe Photoshop
