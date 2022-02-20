@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Yintao Liu 
-    tagline: Postgraduate student
+    name: 刘寅韬
+    tagline: 研究生在读
     avatar: profile 1x1.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: fakrux077a@163.com
     phone: +86 18962557546
-    citizenship: the People's Republic of China
+    citizenship: 中国
     website:  #do not add http://
     linkedin: 
     xing: 
@@ -29,34 +29,32 @@ sidebar:
     Wechat: l958937159
 
     languages:
-      - idiom: Chinese
-        level: Native
+      - idiom: 中文
+        level: 母语
 
-      - idiom: English
-        level: Fluent
-
+      - idiom: 英文
+        level: 流利
     interests:
-      - item: Video Game
+      - item: 游戏
         link:
 
-      - item: Reading
+      - item: 阅读
         link:
 
-      - item: Films/Animation
+      - item: 电影/动画
         link:
         
-      - item: Digital Art
+      - item: 数字艺术
         link:
 
 career-profile:
-    title: About Me
+    title: 自我介绍
     summary: |
-       I am Yintao Liu, a postgraduate student majoring in Digital Communication and Culture at the University of Sydney. I am really looking forward to having an opportunity to work in ByteDance.  
+       我是刘寅韬，一名就读于悉尼大学数字传播与文化专业的研究生。希望能够有机会能以应届生的身份在字节跳动工作。  
 
-       My education experience enriched me with profound insights and comprehensive knowledge about the current media industry, which will be crucial, I believe, to helping me communicate effectively with people from different fields, such as game streamers, influencers on social media, or brand managers from different media companies. So far as I am observed, game, as same as any niche medium form, the boundary between itself and the mainstream media is blurring along with the technology development. Not only does this mean that game consumption expanded from PC or console to mobile device, but more important is all of the social change arising therefrom, such as consumer groups, consumption patterns, and mainstream social attitudes towards games, which inevitably leads to as production side must seize the pulse of the change to make strategic adjustments on the production, advertisement, and cooperation with different media institutions.
+       我的教育经历赋予我对当前媒体行业宏观上的视野和对特定领域的深刻理解，我相信这有助于我与处在行业各个位置的人之间沟通的有效性。海外留学的经历也极大的锻炼了我的适应力和心理素质，也培养了我多元化角度思考问题的方式。以下是我的实习经历以及对申请职位要求的相应能力称述。
 
-       On the other hand, I'm also fascinated by the uniquely artistic expressiveness that games can achieve. I do believe the immersive experience that games bring is not just from the narrative or visual design, but essentially from the pursuit of presenting the mode of operation for an ideal world. The gamer's interaction with the virtual world will create an alternative reality. In terms of constructing an engaging world, any part of the creation should not be neglected whether it's programming or modelling, screenwriting or artistic designing. Teamwork is the prerequisite for game production. I love working with talented people from all walks of life, which is also my motivation for progress.
-
+     
 education:
     - degree: HBA in English and Communication Studies
       university: Xi'an Jiaotong-Liverpool University
